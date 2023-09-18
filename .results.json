@@ -5,9 +5,9 @@
     "passes": 5,
     "pending": 0,
     "failures": 1,
-    "start": "2023-09-18T19:23:19.629Z",
-    "end": "2023-09-18T19:23:19.780Z",
-    "duration": 151
+    "start": "2023-09-18T20:16:34.069Z",
+    "end": "2023-09-18T20:16:34.219Z",
+    "duration": 150
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected 'chelsea' to equal 'Chelsea'",
@@ -40,7 +40,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -64,7 +64,7 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected 'chelsea' to equal 'Chelsea'",
@@ -93,7 +93,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
